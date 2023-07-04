@@ -1,0 +1,33 @@
+Member:
+1.Nashit(N)
+2.Bilal (B)
+3.Kamran(K)
+4.Mohsin(M)
+
+Situation:
+	Three friends are talking about the recently launched video game named "Cyber Punk 2077". Another friend enters who is not aware of this newly launched game, so they start discussing about it.
+
+B:(enters in the room)Hi everybody...How are you all doing
+(everybody says Hi)
+N:Bial, we were just discussing about the latest released video game that is "Cyber Punk 2077", have you played this game ?
+B:No, i havent played this game, but i have heard alot about it such as that the game has mind blowing graphics,excellent AI,but also its very costly.
+N:Yes the game costs 60$, and to give 60$ for a such broken game is not wise decision.
+B:Sorry broken game?... How come is it a broken game ?
+K:Well the developers of the game only focused on the graphics, and not the effects, and other aspects on the game.
+M:Yes, kamran is right, Cyberpunk being a first person interactive game does not provide much options in the story. The dialogue options that you choose in the game does not have any effect on the story of the game.
+B: So it means that the interaction with the bots in the game is useless?
+K:Yes, because the bots just keep on repeating the same dialogues.
+M:Also, the effects in the game are so un natural that most of the people have disliked this game.
+B:What kind of un natural effects are in this game?
+M:Well, if a person dives in the water, there is no water splash, plus the collisions between the cars seems so un natural that when they collide, only the sound of the collision comes, but apparently no damage is evident on the car body.Also, there are numerous glitches in the game
+N:Numerous(chuckles)...There are plenty of glitches in the game, even in the first mission, a man is floating in the middle of the road, then at the end of the mission, again a major glitch is observed that the shadow of our character has no arms, and the shadow is moving soooo weirdly.
+M:Yeah about the shadow glitch...i also noticed it while playing the game that when i started swimming underwater ,the shadow of the hands was moving in such a manner which is not humanly possible.
+B:Wait a minute.. you played the game ? You payed 60$ for a game which is broken and has so many glitches?
+N:All of us has played the game.,as we played the cracked veersion of the game because the game got cracked on the next day after its launch.
+K:Yes its true, and even after having so many glitches and broken effects, the game offers a great story line with amazing graphics and especially the feature that we can design our own character is absoulutely mind blowing.
+N:Yeah , and i also liked the map designing, the way they elaborated the world in 2077 that everything is computerized, even the human brains can access bio chips which gives them different abilites.
+B:kamran you said something about the story line, can you tell me a bit about it as i am getting interested in playing this game?
+K:Well at the beginning of the game, you are given the choice to choose your way, which means either start the game as a street nomad or a cop, and each story has its unique characteristics.
+B:So which one do you prefer?
+K:I dont know i havent choosen a way, but Mohsin did started his journey as a nomad, so Mohsin which type of journey you prefer?
+M:Well.. If you are new to first person shooter games than you should choose the nomad way as it teaches you how to engage in gunfights, but if you are already familiar with fpp then you should choose the cop way.
